@@ -16,7 +16,7 @@
     "dev": "tsc -d -w -p tsconfig.json"
   },
   "dependencies": {
-    "@babel/code-frame": "7.12.11",
+    "@babel/code-frame": "7.18.6",
     "anser": "1.4.9",
     "chalk": "4.0.0",
     "classnames": "2.2.6",
